@@ -9,7 +9,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/Updates_of_ElizaBot",
-    "repository": "https://github.com/Team-ELiza-SL/Eliza-Music-SL",
+    "repository": "https://github.com/kikoyaja69/Eliza-Music-SL",
     "success_url": "https://t.me/SehathSanvidu",
     "env": {
         "API_ID": {
