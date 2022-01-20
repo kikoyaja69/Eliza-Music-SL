@@ -37,7 +37,7 @@
 
 ### Easy Way
 ## Deploy To Heroku 
-go to[@TeamEliza](https://github.com/TeamEliza) for the new repo
+go to[@TeamEliza](https://github.com/kikoyaja69/Eliza-Music-SL) for the new repo
 
 
 <details>
